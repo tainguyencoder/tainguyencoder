@@ -34,6 +34,6 @@
 
 **Stats** 🚀🚀🚀
 
-<img align='left' width="450" src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
+<img align='left' width="400" src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
 <img align='right' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
 
