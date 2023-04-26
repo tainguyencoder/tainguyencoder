@@ -1,18 +1,18 @@
-# Hey, I'm Taikool 👋👋👋
+# Hey, I'm Taikool
 
 **[![Linkedin](https://img.shields.io/badge/-taithanhnguyen210396-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taithanhnguyen210396/)](https://www.linkedin.com/in/taithanhnguyen210396/)**
 
 
-### Hi there, Nice to meet you 👋👋👋, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
+### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
   <img align="right" width="500" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
   
-**Personal Stuffs** 🙋‍♂️🙋‍♂️🙋‍♂️
-- 💼 I graduated Bachelor's degree in Computer Science
-- 📝 See my [Portfolio](https://taithanhnguyen.tech/) to get more info
-- 📫 Please email via taikool2121996@gmail.com
-- 💬 Ask me about anything, I am happy to help
+**PERSONAL STUFFS**
+- I graduated Bachelor's degree in Computer Science
+- See my [Portfolio](https://taithanhnguyen.tech/) to get more info
+- Please email via taikool2121996@gmail.com
+- Ask me about anything, I am happy to help
 
-**Skills 💻💻💻**  
+**SKILLS**  
 
 <code><img height="30" src="https://user-images.githubusercontent.com/72439970/234466550-ae1eca89-66ff-4856-bf7a-9e978d19dc44.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/72439970/234466727-482e995e-07ba-479f-8f44-821b398fef5c.png"></code>
@@ -32,7 +32,7 @@
 <code><img height="28" src="https://user-images.githubusercontent.com/72439970/234470457-bf5393cf-f281-4caa-b9f5-a526871542c2.png"></code>
 
 
-**Stats** 🚀🚀🚀
+**STATS**
 
 <img align='left' width="400" src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
 <img align='right' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
