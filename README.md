@@ -7,10 +7,10 @@
   <img align="right" width="450" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
   
 **Personal Stuffs** 🙋‍♂️🙋‍♂️🙋‍♂️
-- 💼 I graduated Bachelor's degree in Computer Science.
-- 📝 See my [Portfolio](https://taithanhnguyen.tech/) to get more info.
-- 📫 Please email via taikool2121996@gmail.com to reach me.
-- 💬 Ask me about anything, I am happy to help.
+- 💼 I graduated Bachelor's degree in Computer Science
+- 📝 See my [Portfolio](https://taithanhnguyen.tech/) to get more info
+- 📫 Please email via taikool2121996@gmail.com
+- 💬 Ask me about anything, I am happy to help
 
 **Skills 💻💻💻**  
 
