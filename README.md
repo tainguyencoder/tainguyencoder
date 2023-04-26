@@ -4,7 +4,7 @@
 
 
 ### Hi there, Nice to meet you 👋👋👋, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
+  <img align="right" width="450" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
   
 **Personal Stuffs** 🙋‍♂️🙋‍♂️🙋‍♂️
 - 💼 I graduated Bachelor's degree in Computer Science.
@@ -34,7 +34,7 @@
 
 **Stats** 🚀🚀🚀
 
-<img align='left'   width="500" src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
+<img align='left'   width="400" src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
 
 <!--START_SECTION-->
 ```text
