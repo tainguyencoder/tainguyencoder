@@ -34,13 +34,13 @@
 
 **STATS**
 
-<a align='left' width="300" href="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
+<a align='left' href="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
   <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default">
 </picture>
 </a>
-<a align='right' width="300" height="400" href="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
+<a align='right' href="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
   <img alt="Shows Taikool's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact">
