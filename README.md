@@ -8,7 +8,7 @@
   
 **PERSONAL STUFFS**
 - I graduated Bachelor's degree in Computer Science
-- See my [Portfolio](https://taithanhnguyen.tech/) to get more info
+- See my [Portfolio](https://taikool.cloud/) to get more info
 - Please email via taikool2121996@gmail.com
 - Ask me about anything, I am happy to help
 
