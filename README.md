@@ -5,7 +5,7 @@
 
 ### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
   <img align="right" width="480" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
-
+<br/>
   
 **PERSONAL STUFFS**
 - I graduated Bachelor's degree in Computer Science
@@ -14,7 +14,6 @@
 - Ask me about anything, I am happy to help
 
 **SKILLS**  
-
 <code><img height="30" src="https://user-images.githubusercontent.com/72439970/234466550-ae1eca89-66ff-4856-bf7a-9e978d19dc44.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/72439970/234466727-482e995e-07ba-479f-8f44-821b398fef5c.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/72439970/234468036-b78462f3-a987-4277-8d60-5f7786edd34c.png"></code>
@@ -31,25 +30,21 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/72439970/234469776-8ff4b9da-a291-4cfe-804f-a4b17421d006.png"></code>
 <code><img height="22" src="https://user-images.githubusercontent.com/72439970/234467758-dd33f3b9-f98c-414f-bf9a-3e20b71a5dcf.png"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/72439970/234470457-bf5393cf-f281-4caa-b9f5-a526871542c2.png"></code>
-
-
+<br/>
 
 **STATS**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
-  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default">
-</picture>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: dark)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" alt="Top Langs Stats">
 </picture>
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&hide_border=true&show_icons=true&theme=tokyonight">
+  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&hide_border=true&show_icons=true&theme=default">
+</picture>
+<br/>
 
 **CONTRIBUTION**
-
 <div align="center">
   <picture>
     <source srcset="./assets/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
