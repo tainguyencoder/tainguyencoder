@@ -42,14 +42,15 @@
     <img src="./assets/github-contribution-grid-snake.svg" alt="Github contribution grid snake animation">
   </picture>
 </div>
+<br>
+<br>
 
 **STATS**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight&hide_border=true">
-  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
+  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default">
 </picture>
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=default" alt="Taikool's Top Langs Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
+  <img alt="Shows Taikool's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact">
 </picture>
