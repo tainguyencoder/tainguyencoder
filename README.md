@@ -4,9 +4,7 @@
 
 
 ### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
-<div style="margin-bottom: 20px">
   <img align="right" width="480"  alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
-</div>
 
 **PERSONAL STUFFS**
 - I graduated Bachelor's degree in Computer Science
@@ -46,8 +44,11 @@
 <br/>
 <br/>
 
-  [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
+<div algin="center">
+    [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
   [![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
   [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
   [![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&&layout=donut&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
+</div>
+
 
