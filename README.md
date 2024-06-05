@@ -14,6 +14,7 @@
 - Ask me about anything, I am happy to help
 
 **SKILLS**  
+<br>
 <code><img height="30" src="https://user-images.githubusercontent.com/72439970/234466550-ae1eca89-66ff-4856-bf7a-9e978d19dc44.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/72439970/234466727-482e995e-07ba-479f-8f44-821b398fef5c.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/72439970/234468036-b78462f3-a987-4277-8d60-5f7786edd34c.png"></code>
@@ -43,10 +44,10 @@
 **STATS**
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: light)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" alt="Top Langs Stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&hide_border=true&show_icons=true media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference">
-  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&hide_border=true&show_icons=true media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
+  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default">
 </picture>
