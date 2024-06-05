@@ -1,6 +1,6 @@
 # Hey, I'm Taikool
 
-**[![Linkedin](https://img.shields.io/badge/-taithanhnguyen210396-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taikool2121996/)](https://www.linkedin.com/in/taikool2121996/)**
+**[![Linkedin](https://img.shields.io/badge/-taikool2121996-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taikool2121996/)](https://www.linkedin.com/in/taikool2121996/)**
 
 
 ### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
@@ -33,6 +33,7 @@
 <code><img height="28" src="https://user-images.githubusercontent.com/72439970/234470457-bf5393cf-f281-4caa-b9f5-a526871542c2.png"></code>
 
 
+
 **STATS**
 
 <picture>
@@ -44,6 +45,7 @@
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: dark)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" alt="Top Langs Stats">
 </picture>
+
 
 
 **CONTRIBUTION**
