@@ -1,10 +1,11 @@
 # Hey, I'm Taikool
 
-**[![Linkedin](https://img.shields.io/badge/-taithanhnguyen210396-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taithanhnguyen210396/)](https://www.linkedin.com/in/taithanhnguyen210396/)**
+**[![Linkedin](https://img.shields.io/badge/-taithanhnguyen210396-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taikool2121996/)](https://www.linkedin.com/in/taikool2121996/)**
 
 
 ### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
   <img align="right" width="480" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
+
   
 **PERSONAL STUFFS**
 - I graduated Bachelor's degree in Computer Science
@@ -34,16 +35,23 @@
 
 **STATS**
 
-<a align='left' href="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
   <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default">
 </picture>
-</a>
-<a align='right' href="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
-  <img alt="Shows Taikool's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: dark)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" alt="Top Langs Stats">
 </picture>
-</a>
 
+
+**CONTRIBUTION**
+
+<div align="center">
+  <picture>
+    <source srcset="./assets/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <source srcset="./assets/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="./assets/github-contribution-grid-snake.svg" alt="Github contribution grid snake animation">
+  </picture>
+</div>
