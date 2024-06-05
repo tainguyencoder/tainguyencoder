@@ -4,7 +4,7 @@
 
 
 ### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
-  <img align="right" width="480" margin-bottom="100" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
+  <img align="right" width="480" style="margin-bottom: 20" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
 
 **PERSONAL STUFFS**
 - I graduated Bachelor's degree in Computer Science
