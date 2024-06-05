@@ -43,12 +43,9 @@
     <img src="./assets/github-contribution-grid-snake.svg" alt="Github contribution grid snake animation">
   </picture>
 </div>
-<br>
-<br>
 
-**STATS**
   [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
   [![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
-  [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut-vertical&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
-  [![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&&layout=donut-vertical&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
+  [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
+  [![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&&layout=donut&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
 
