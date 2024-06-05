@@ -47,9 +47,10 @@
 <br>
 
 **STATS**
-[![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
-[![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact&theme=radical">
-  <img alt="Shows Taikool's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=compact">
-</picture>
+<div>
+  [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
+  [![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
+  [![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut-vertical&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
+  [![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&&layout=donut-vertical&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
+</div>
+
