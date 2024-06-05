@@ -1,0 +1,66 @@
+name: update-profile-daily
+
+on:
+  # Run automatically everyday at 00:03
+  schedule:
+  - cron: "3 0 * * *"
+  
+  # Allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # Run on every push on the main branch
+  push:
+    branches: [ "main" ]
+
+# Only a single workflow in the same concurrency will run at the same time
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.head_ref || github.ref }}'
+  cancel-in-progress: true
+
+jobs:
+  update_github_profile_readme:
+    runs-on: ubuntu-latest
+    name: Generate grid snake animation
+    permissions:
+      contents: write
+    timeout-minutes: 5
+    steps:
+    # Checkout main branch
+    - name: Checkout main branch
+      uses: actions/checkout@v4
+      # with:
+      #   sparse-checkout: assets
+
+    # Generate a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <assets> folder
+    # the content will be available at main branch after push step
+    - name: Generate assets github-contribution-grid-snake.svg
+      id: snake
+      uses: Platane/snk/svg-only@v3
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          assets/github-contribution-grid-snake.svg
+          assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+    # Push awesome grid snake animation to main branch
+    # Note: the following account information will not work on GHES
+    - name: Push awesome wallpapers, random quotes and grid snake animation to main branch
+      id: push
+      run: |
+        git config user.name "taikool2121996"
+        git config user.email "taikool2121996@gmail.com"
+        git add .
+        git commit -m ":robot: Generated grid snake animation"
+        git push
+
+  rerun-failed-jobs:
+    runs-on: ubuntu-latest
+    name: Rerun failed jobs in the current workflow
+    needs: [ update_github_profile_readme ]
+    timeout-minutes: 5
+    if: failure()
+    steps:
+      - name: Rerun failed jobs in the current workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh run rerun ${{ github.run_id }} --failed
