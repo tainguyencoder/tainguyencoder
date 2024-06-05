@@ -31,6 +31,8 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/72439970/234469776-8ff4b9da-a291-4cfe-804f-a4b17421d006.png"></code>
 <code><img height="22" src="https://user-images.githubusercontent.com/72439970/234467758-dd33f3b9-f98c-414f-bf9a-3e20b71a5dcf.png"></code>
 <code><img height="28" src="https://user-images.githubusercontent.com/72439970/234470457-bf5393cf-f281-4caa-b9f5-a526871542c2.png"></code>
+<br>
+<br>
 
 **CONTRIBUTION**
 <div align="center">
@@ -43,11 +45,11 @@
 
 **STATS**
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" alt="Top Langs Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight&hide_border=true">
+  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default&hide_border=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
-  <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=onedark" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&hide_border=true&theme=default" alt="Taikool's Top Langs Stats">
 </picture>
