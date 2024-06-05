@@ -5,8 +5,9 @@
 
 ### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
   <img align="right" width="480" alt="GIF" src="https://user-images.githubusercontent.com/72439970/234464603-fd87506c-8b36-4db8-9a9f-7da38a9c95df.gif" />
-<br/>
-  
+<br/> 
+<br/>  
+
 **PERSONAL STUFFS**
 - I graduated Bachelor's degree in Computer Science
 - See my [Portfolio](https://taikool.cloud/) to get more info
@@ -47,7 +48,7 @@
 
 **STATS**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&&theme=transparent">
   <img alt="Shows Taikool's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true">
 </picture>
 <picture>
