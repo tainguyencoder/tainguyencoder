@@ -1,6 +1,6 @@
-# Hey, I'm Taikool
+# Hey, I'm Tai Nguyen
 
-**[![Linkedin](https://img.shields.io/badge/-taikool2121996-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taikool2121996/)](https://www.linkedin.com/in/taikool2121996/)**
+**[![Linkedin](https://img.shields.io/badge/-tainguyencoder-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tainguyencoder/)](https://www.linkedin.com/in/tainguyencoder/)**
 
 
 ### Hi there, Nice to meet you, I'm *Nguyen Thanh Tai*, a **Front-end Web Developer** from VIetnam.
@@ -8,8 +8,8 @@
 
 **PERSONAL STUFFS**
 - I graduated Bachelor's degree in Computer Science
-- See my [Portfolio](https://taikool.cloud/) to get more info
-- Please email via taikool2121996@gmail.com
+- See my [Portfolio](https://tainguyencoder.tech/) to get more info
+- Please email via tainguyencoder@gmail.com
 - Ask me about anything, I am happy to help
 
 **SKILLS**  
@@ -44,9 +44,9 @@
 <br/>
 <br/>
 
-[![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
-[![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taikool2121996&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
-[![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-dark-mode-only)
-[![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=taikool2121996&&layout=donut&theme=default#gh-light-mode-only)](https://github.com/taikool2121996/github-readme-stats#gh-light-mode-only)
+[![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tainguyencoder&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/tainguyencoder/github-readme-stats#gh-dark-mode-only)
+[![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tainguyencoder&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tainguyencoder/github-readme-stats#gh-light-mode-only)
+[![Taikool's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyencoder&layout=donut&theme=radical#gh-dark-mode-only)](https://github.com/tainguyencoder/github-readme-stats#gh-dark-mode-only)
+[![Taikool's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tainguyencoder&&layout=donut&theme=default#gh-light-mode-only)](https://github.com/tainguyencoder/github-readme-stats#gh-light-mode-only)
 
 
