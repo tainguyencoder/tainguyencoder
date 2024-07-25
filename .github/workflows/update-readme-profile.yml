@@ -47,8 +47,8 @@ jobs:
     - name: Push awesome wallpapers, random quotes and grid snake animation to main branch
       id: push
       run: |
-        git config user.name "taikool2121996"
-        git config user.email "taikool2121996@gmail.com"
+        git config user.name "tainguyencoder"
+        git config user.email "tainguyencoder@gmail.com"
         git add .
         git commit -m ":robot: Generated grid snake animation"
         git push
